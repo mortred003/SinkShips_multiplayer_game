@@ -6,8 +6,8 @@ Sink Ships is a two-player Battleship-style game implemented in Java using Swing
 
  Features
 
-  Interactive Swing-based GUI with two grids:
-
+   Interactive Swing-based GUI with two grids:
+   
    Left grid: for placing your ships.
 
    Right grid: for attacking your opponent.
